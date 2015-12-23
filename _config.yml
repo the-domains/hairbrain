@@ -1,0 +1,28 @@
+name: hairbrain
+favicon: null
+layout_spectrum: 0.8330141729675233
+typography_spectrum: 0.7573453038930893
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.09653210313990712
+  lightness: 0.050869309809058905
+  saturation: 0.3468250147998333
+  rhythmicContrast: 0.40152698988094926
+purpose: []
